@@ -1,2 +1,7 @@
-package enums;public enum PersonType {
+package enums;
+
+public enum PersonType {
+    STUDENT,
+    TEACHER
 }
+
